@@ -1,73 +1,70 @@
-Customer Churn Analysis & Prediction
-Overview
+<div align="center">
 
-This repository contains an end-to-end customer churn analysis and prediction project using exploratory data analysis (EDA) and machine learning. The project focuses on identifying churn patterns, understanding customer behavior, and building predictive models to support customer retention decisions.
+# 📊 Customer Churn Analysis & Prediction  
+### End-to-End Analytics & Machine Learning Project
 
-Repository Contents
-Customer Churn EDA Part 1.ipynb
-Customer Churn Classifier EDA & ML.ipynb
-Customer Retention Analysis & Prediction.ipynb
-README.md
+</div>
 
-Project Scope
+---
+
+## 🔍 About the Project
+This project focuses on **customer churn analysis and prediction** using **exploratory data analysis (EDA)** and **machine learning models**.  
+The aim is to understand customer behavior, identify churn-driving factors, and build predictive models to support customer retention strategies.
+
+---
+
+## 🗂️ Repository Structure
+```text
+Customer-Churn-Analysis-Prediction
+├── Customer Churn EDA Part 1.ipynb
+├── Customer Churn Classifier EDA & ML.ipynb
+├── Customer Retention Analysis & Prediction.ipynb
+└── README.md
+
+🚀 Key Features
 
 Data cleaning and preprocessing
-
 Exploratory Data Analysis (EDA)
-
 Feature engineering
-
 Customer churn pattern analysis
-
-Machine learning model development
-
+Machine learning model training
 Model evaluation and comparison
 
-Dataset
+📁 Dataset
 
-The dataset used in this project is not included in the repository due to file size constraints.
+Dataset is not included in this repository due to large file size.
+You can use any publicly available customer churn dataset (e.g., telecom churn) or a similar dataset.
+Update the dataset file path inside the notebooks before running.
 
-You can use any publicly available customer churn dataset (such as telecom churn data) or a similar dataset.
-Update the dataset file path inside the notebooks before execution.
-
-Tech Stack
+🛠️ Tech Stack
 
 Python
-
 Pandas, NumPy
-
 Matplotlib, Seaborn
-
 Scikit-learn
-
 Jupyter Notebook
 
-How to Run
+▶️ How to Run
 
 Clone the repository
-
-Install the required Python libraries
-
+Install required Python libraries
 Open the notebooks using Jupyter Notebook
-
 Update the dataset file path
-
 Run the notebooks step by step
 
-Results
+📊 Results
 
-Identified key factors contributing to customer churn
-
-Built and evaluated machine learning models for churn prediction
-
+Identified key factors influencing customer churn
+Built and evaluated machine learning models
 Demonstrated an end-to-end analytics and ML workflow
 
-Future Improvements
+🔮 Future Enhancements
 
 Hyperparameter tuning
-
-Handling imbalanced data
-
+Handling imbalanced datasets
 Model deployment
-
 Dashboard or web application integration
+
+🎯 Purpose
+
+This project is created for learning, portfolio demonstration, and interview preparation.
